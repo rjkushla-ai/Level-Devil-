@@ -1,0 +1,6 @@
+{
+  "name": "Level Devil: Evil Edition",
+  "description": "A high-contrast 2D troll platformer with ultra-long scrolling maps, grand gates level select, persistent progress, and a sarcastic AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
